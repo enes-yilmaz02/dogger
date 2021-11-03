@@ -47,7 +47,7 @@ button:hover {
   padding: 16px;
 }
 
-.modal {
+/*.modal {
  
   position: fixed; 
   z-index: 1; 
@@ -65,9 +65,16 @@ button:hover {
   margin: 5% auto 15% auto;
   border: 1px solid #888;
   width: 80%; 
+}*/
+#header{
+  text-align: center;
+  justify-content: center;
 }
-
-
+.baslik{
+  font-size: 22px;
+  text-align: center;
+  margin: 15px auto;
+}
 hr {
   border: 1px solid #f1f1f1;
   margin-bottom: 25px;
