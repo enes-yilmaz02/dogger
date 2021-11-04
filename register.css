@@ -106,3 +106,19 @@ hr {
     width: 100%;
   }
 }
+#footer{
+  font-size: 35px;
+  color: #ffffff;
+  background-color: black;
+  height: 200px;
+  text-align: center;
+  
+}
+
+.footer h2{
+  text-align: center;
+  padding: 50px;
+  content: attr();
+  padding-top: 95px;
+}
+
